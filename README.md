@@ -1,4 +1,4 @@
-# 🛒 Walmart Black Friday Purchase Analysis
+# 🛒 Walmart Black Friday Purchase Analysis Case Study
 
 ## 🏢 About Walmart
 **Walmart** is a globally recognized retail corporation, operating a vast chain of supercenters, discount stores, and grocery outlets. With **over 100 million** customers, Walmart is constantly looking for ways to better understand and serve its customer base.
