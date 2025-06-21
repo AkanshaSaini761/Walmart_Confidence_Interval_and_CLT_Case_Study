@@ -12,7 +12,7 @@ The goal of this case study is to analyze customer purchase behavior during **Bl
 
 ## 📁 Dataset Overview
 
-**📥 Dataset:** [walmart_data.csv](https://drive.google.com/file/d/1ad6SZAh3s1ZUwGSIgF3YSnMnMj-G0kL6/view?usp=drive_link) 
+**📥 Dataset:** [walmart_data.csv](https://github.com/AkanshaSaini761/Walmart_Confidence_Interval_and_CLT_Case_Study/blob/main/walmart_data.csv) 
 
 The dataset contains transactional data of over **550,000** purchases made during Black Friday sales.
 
@@ -112,4 +112,4 @@ Sample Size = 100,000
 ## 📄 Output Report
 
 All visualizations, detailed insights, and code are documented in this PDF:  
-📎 [walmart_case_study_akansha_saini.pdf](https://drive.google.com/file/d/1DocUEw-nU14d58Vn4wBAYiOSOtDOXbAl/view?usp=drive_link)
+📎 [walmart_case_study_akansha_saini.pdf](https://github.com/AkanshaSaini761/Walmart_Confidence_Interval_and_CLT_Case_Study/blob/main/walmart_case_study_akansha_saini.pdf)
